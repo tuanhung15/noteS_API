@@ -10,14 +10,14 @@
       "tags": [
         {
           "name": "test",
-          "color": "#FFFFFF" 
+          "color": "#FFFFFF"  // trắng
         },
         {
           "name": "example",
-          "color": "#FFFFFF"  
+          "color": "#FFFFFF"  // trắng
         }
       ],
-      "color": "#FF0000"
+      "color": "#FF7F50"
     },
     {
       "id": 2,
@@ -29,14 +29,14 @@
       "tags": [
         {
           "name": "shopping",
-          "color": "#000000"
+          "color": "#FFFFFF"  // trắng
         },
         {
           "name": "urgent",
-          "color": "#000000"  
+          "color": "#FFFFFF"  // trắng
         }
       ],
-      "color": "#00FF00"
+      "color": "#4682B4"
     },
     {
       "id": 3,
@@ -48,14 +48,14 @@
       "tags": [
         {
           "name": "work",
-          "color": "#FFFFFF"  
+          "color": "#FFFFFF"  // trắng
         },
         {
           "name": "meeting",
-          "color": "#FFFFFF"  
+          "color": "#FFFFFF"  // trắng
         }
       ],
-      "color": "#0000FF"
+      "color": "#32CD32"
     },
     {
       "id": 4,
@@ -67,10 +67,10 @@
       "tags": [
         {
           "name": "personal",
-          "color": "#FFFFFF"  
+          "color": "#FFFFFF"  // trắng
         }
       ],
-      "color": "#FFFF00"
+      "color": "#FFD700"
     }
   ]
 }
