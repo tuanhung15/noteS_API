@@ -7,7 +7,16 @@
       "priority": 2,
       "createdAt": "2025-04-08T10:00:00.000Z",
       "modifiedAt": "2025-04-08T10:00:00.000Z",
-      "tags": ["test", "example"],
+      "tags": [
+        {
+          "name": "test",
+          "color": "#FFFFFF"  // màu trắng
+        },
+        {
+          "name": "example",
+          "color": "#FFFFFF"  // màu trắng
+        }
+      ],
       "color": "#FF0000"
     },
     {
@@ -17,7 +26,16 @@
       "priority": 1,
       "createdAt": "2025-04-09T08:30:00.000Z",
       "modifiedAt": "2025-04-09T08:30:00.000Z",
-      "tags": ["shopping", "urgent"],
+      "tags": [
+        {
+          "name": "shopping",
+          "color": "#000000"  // màu đen
+        },
+        {
+          "name": "urgent",
+          "color": "#000000"  // màu đen
+        }
+      ],
       "color": "#00FF00"
     },
     {
@@ -27,7 +45,16 @@
       "priority": 3,
       "createdAt": "2025-04-10T14:15:00.000Z",
       "modifiedAt": "2025-04-10T14:15:00.000Z",
-      "tags": ["work", "meeting"],
+      "tags": [
+        {
+          "name": "work",
+          "color": "#FFFFFF"  // màu trắng
+        },
+        {
+          "name": "meeting",
+          "color": "#FFFFFF"  // màu trắng
+        }
+      ],
       "color": "#0000FF"
     },
     {
@@ -37,7 +64,12 @@
       "priority": 2,
       "createdAt": "2025-04-11T09:00:00.000Z",
       "modifiedAt": "2025-04-11T09:00:00.000Z",
-      "tags": ["personal"],
+      "tags": [
+        {
+          "name": "personal",
+          "color": "#FFFFFF"  // màu trắng
+        }
+      ],
       "color": "#FFFF00"
     }
   ]
