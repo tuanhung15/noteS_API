@@ -7,17 +7,8 @@
       "priority": 2,
       "createdAt": "2025-04-08T10:00:00.000Z",
       "modifiedAt": "2025-04-08T10:00:00.000Z",
-      "tags": [
-        {
-          "name": "test",
-          "color": "#FFFFFF"  // trắng
-        },
-        {
-          "name": "example",
-          "color": "#FFFFFF"  // trắng
-        }
-      ],
-      "color": "#FF7F50"
+      "tags": ["test", "example"],
+      "color": "#FF7F50" 
     },
     {
       "id": 2,
@@ -26,18 +17,9 @@
       "priority": 1,
       "createdAt": "2025-04-09T08:30:00.000Z",
       "modifiedAt": "2025-04-09T08:30:00.000Z",
-      "tags": [
-        {
-          "name": "shopping",
-          "color": "#FFFFFF"  // trắng
-        },
-        {
-          "name": "urgent",
-          "color": "#FFFFFF"  // trắng
-        }
-      ],
-      "color": "#4682B4"
-    },
+      "tags": ["shopping", "urgent"],
+      "color": "#4682B4"  
+    }, 
     {
       "id": 3,
       "title": "Meeting Notes",
@@ -45,17 +27,8 @@
       "priority": 3,
       "createdAt": "2025-04-10T14:15:00.000Z",
       "modifiedAt": "2025-04-10T14:15:00.000Z",
-      "tags": [
-        {
-          "name": "work",
-          "color": "#FFFFFF"  // trắng
-        },
-        {
-          "name": "meeting",
-          "color": "#FFFFFF"  // trắng
-        }
-      ],
-      "color": "#32CD32"
+      "tags": ["work", "meeting"],
+      "color": "#32CD32"  
     },
     {
       "id": 4,
@@ -64,13 +37,8 @@
       "priority": 2,
       "createdAt": "2025-04-11T09:00:00.000Z",
       "modifiedAt": "2025-04-11T09:00:00.000Z",
-      "tags": [
-        {
-          "name": "personal",
-          "color": "#FFFFFF"  // trắng
-        }
-      ],
-      "color": "#FFD700"
+      "tags": ["personal"],
+      "color": "#FFD700"  
     }
   ]
 }
