@@ -8,7 +8,7 @@
       "createdAt": "2025-04-08T10:00:00.000Z",
       "modifiedAt": "2025-04-08T10:00:00.000Z",
       "tags": ["test", "example"],
-      "color": "#FF7F50" 
+      "color": "#FF0000"
     },
     {
       "id": 2,
@@ -18,8 +18,8 @@
       "createdAt": "2025-04-09T08:30:00.000Z",
       "modifiedAt": "2025-04-09T08:30:00.000Z",
       "tags": ["shopping", "urgent"],
-      "color": "#4682B4"  
-    }, 
+      "color": "#00FF00"
+    },
     {
       "id": 3,
       "title": "Meeting Notes",
@@ -28,7 +28,7 @@
       "createdAt": "2025-04-10T14:15:00.000Z",
       "modifiedAt": "2025-04-10T14:15:00.000Z",
       "tags": ["work", "meeting"],
-      "color": "#32CD32"  
+      "color": "#0000FF"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "createdAt": "2025-04-11T09:00:00.000Z",
       "modifiedAt": "2025-04-11T09:00:00.000Z",
       "tags": ["personal"],
-      "color": "#FFD700"  
+      "color": "#FFFF00"
     }
   ]
 }
