@@ -10,11 +10,11 @@
       "tags": [
         {
           "name": "test",
-          "color": "#FFFFFF"  // màu trắng
+          "color": "#FFFFFF" 
         },
         {
           "name": "example",
-          "color": "#FFFFFF"  // màu trắng
+          "color": "#FFFFFF"  
         }
       ],
       "color": "#FF0000"
@@ -29,11 +29,11 @@
       "tags": [
         {
           "name": "shopping",
-          "color": "#000000"  // màu đen
+          "color": "#000000"
         },
         {
           "name": "urgent",
-          "color": "#000000"  // màu đen
+          "color": "#000000"  
         }
       ],
       "color": "#00FF00"
@@ -48,11 +48,11 @@
       "tags": [
         {
           "name": "work",
-          "color": "#FFFFFF"  // màu trắng
+          "color": "#FFFFFF"  
         },
         {
           "name": "meeting",
-          "color": "#FFFFFF"  // màu trắng
+          "color": "#FFFFFF"  
         }
       ],
       "color": "#0000FF"
@@ -67,7 +67,7 @@
       "tags": [
         {
           "name": "personal",
-          "color": "#FFFFFF"  // màu trắng
+          "color": "#FFFFFF"  
         }
       ],
       "color": "#FFFF00"
